@@ -7,7 +7,7 @@
     "bignumber.js" : "2.x.x"
   },
   "readmeFilename": "README.md",
-  "description": "",
+  "description": "float to satoshi",
   "main": "index.js",
   "devDependencies": {
   },
