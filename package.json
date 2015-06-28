@@ -1,13 +1,13 @@
 {
   "author": "Yuki Akiyama <you2197901 [at] gmail.com>",
   "name": "satoshinizer",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "private": false,
   "dependencies": {
     "bignumber.js" : "2.x.x"
   },
   "readmeFilename": "README.md",
-  "description": "float to satoshi",
+  "description": "float to satoshi. It is converted into satoshi thereby accurate numerical calculations .",
   "main": "index.js",
   "devDependencies": {
   },
@@ -19,6 +19,8 @@
     "url": "git://github.com/you21979/node-satoshinizer.git"
   },
   "keywords": [
+    "bitcoin",
+    "satoshi"
   ],
   "license": "MIT",
   "bugs": {
