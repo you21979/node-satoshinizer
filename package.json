@@ -10,9 +10,14 @@
   "description": "float to satoshi. It is converted into satoshi thereby accurate numerical calculations .",
   "main": "index.js",
   "devDependencies": {
+    "istanbul":"",
+    "coveralls":"",
+    "power-assert":"",
+    "mocha":""
   },
   "scripts": {
-    "test": ""
+    "test": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
   },
   "repository": {
     "type": "git",

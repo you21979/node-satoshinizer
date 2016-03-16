@@ -1,4 +1,9 @@
 # node-satoshinizer
+
+[![NPM](https://nodei.co/npm/satoshinizer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/satoshinizer)  
+[![Build Status](https://secure.travis-ci.org/you21979/node-satoshinizer.png?branch=master)](https://travis-ci.org/you21979/node-satoshinizer)
+[![Coverage Status](https://coveralls.io/repos/github/you21979/node-satoshinizer/badge.svg?branch=master)](https://coveralls.io/github/you21979/node-satoshinizer?branch=master)
+
 float to satoshi
 
 ## install
